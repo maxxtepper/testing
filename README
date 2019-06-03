@@ -1,1 +1,15 @@
 This is the README for testing
+
+
+I am adding this to develop
+Then I will commit to develop
+Then I will merge to release
+Then I will commit to realease
+Then I will push origin develop
+Then I will push origin release
+
+Victory
+
+Note:
+Build a git_merge wrapper function to the develop->release motion
+Unless more care needs to be taken
